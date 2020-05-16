@@ -1,0 +1,7 @@
+version: "3.4"
+services:
+  node:
+    build: 
+      context: './'
+    ports:
+      - "9020:3000"

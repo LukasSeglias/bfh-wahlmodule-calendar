@@ -1,0 +1,15 @@
+{
+    "name": "wahlmodule-app",
+    "version": "1.0.0",
+    "description": "App um Wahlmodule der BFH anzuzeigen",
+    "author": "Lukas Seglias",
+    "main": "server.js",
+    "scripts": {
+      "start": "node server.js"
+    },
+    "dependencies": {
+      "express": "^4.17.1",
+      "jsdom": "16.2.2",
+      "axios": "0.19.2"
+    }
+  }
