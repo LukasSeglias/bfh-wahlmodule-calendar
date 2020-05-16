@@ -14,7 +14,7 @@ Es kann durchaus etwas dauern, bis die Module von der Website ausgelesen und im 
 
 Die Module die gemäss BFH-Website nicht stattfinden, sind rot hinterlegt. Per Click auf ein Modul kann dessen Modulbeschreibung geöffnet werden. 
 
-In der Datei **public/blacklist.txt** kann ein Modultitel pro Zeile eingetragen werden, um dieses in der Kalenderansicht auszublenden.
+In der Datei **public/blacklist.txt** kann ein Modultitel pro Zeile eingetragen werden, um dieses in der Kalenderansicht auszublenden. **Achtung**: es befinden sich bereits Einträge in der Datei. Bitte Sehen Sie nach, ob Sie eines dieser Module besuchen wollen. 
 
 Filter auf das Semester: http://localhost:9020/?semester=FS und http://localhost:9020/?semester=HS
 
