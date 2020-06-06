@@ -18,5 +18,5 @@ In der Datei **public/blacklist.txt** kann ein Modultitel pro Zeile eingetragen 
 
 Filter auf das Semester: http://localhost:9020/?semester=FS und http://localhost:9020/?semester=HS
 
-Auszug der Fitler auf Standort: http://localhost:9020/?standort=Be und http://localhost:9020/?standort=Bi
+Auszug der Filter auf Standort: http://localhost:9020/?standort=Be und http://localhost:9020/?standort=Bi
 
