@@ -1,4 +1,6 @@
 # Wahlmodule Kalender Berner Fachhochschule
+Deprecated: Leider wurde die BFH-Website umgestellt, wodurch es die Seite von wo die Wahlmodule abgegriffen werden, nicht mehr gibt.
+
 Diese simple Applikation liest die Wahlmodule unter https://content.bfh.ch/de/ti/studieninformationen/informatik/module/wahlmodule.html aus und stellt diese in einer Kalenderansicht dar und soll bei der Planung und Auswahl der Wahlmodule helfen.
 
 ![Preview](https://github.com/LukasSeglias/bfh-wahlmodule-calendar/raw/master/preview.PNG "Vorschau")
